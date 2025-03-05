@@ -31,6 +31,7 @@
 ⚡ 即時通知： WebSocket / SSE
 ⚡ UI 框架： Element Plus
 
+```
 📂 專案目錄結構
 payment-system-mvp/
 ├── backend/ # 🚀 後端服務 (NestJS)
@@ -62,6 +63,7 @@ payment-system-mvp/
 │ ├── README.md
 │
 └── README.md # 📌 專案說明
+```
 
 2️⃣ 啟動後端
 cd backend
