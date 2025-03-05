@@ -1,0 +1,23 @@
+# Node.js 相關
+node_modules/
+dist/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# 環境變數
+.env
+.env.local
+.env.production
+.env.development
+
+# 編譯輸出
+build/
+coverage/
+out/
+.tmp/
+
+# IDE 設定
+.vscode/
+.idea/
+.DS_Store
