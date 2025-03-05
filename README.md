@@ -67,6 +67,7 @@ payment-system-mvp/
 └── README.md # 📌 專案說明
 ```
 
+```
 2️⃣ 啟動後端
 cd backend
 npm install
@@ -79,6 +80,7 @@ npm run dev
 
 4️⃣ 啟動 Docker (本地開發)
 docker⚡compose up ⚡d
+```
 
 📌 API 設計  
 🔑 身份驗證 API（Auth API）
