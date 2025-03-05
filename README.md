@@ -15,6 +15,7 @@
 ✅ MySQL + Redis 快取，提升交易查詢效能  
 ✅ Docker + Kubernetes 部署，確保系統可擴展
 
+```
 ⚙️ 技術架構
 💻 後端
 ⚡ 框架： NestJS (Node.js + TypeScript)
@@ -30,6 +31,7 @@
 ⚡ API 呼叫： Axios / Fetch
 ⚡ 即時通知： WebSocket / SSE
 ⚡ UI 框架： Element Plus
+```
 
 ```
 📂 專案目錄結構
